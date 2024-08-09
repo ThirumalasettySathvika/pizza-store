@@ -1,0 +1,9 @@
+.rounded-input {
+    border-radius: 20px; /* Make the input fields round */
+    padding: 10px;
+    border: 1px solid #ccc;
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+  }
+  

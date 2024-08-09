@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": "2",
+      "name": "Pepperoni",
+      "price": 7.99,
+      "description": "Pepperoni and cheese pizza"
+    },
+    {
+      "id": "e287",
+      "name": "Margherita Test 3",
+      "price": 4,
+      "description": "Personal Leave"
+    },
+    {
+      "id": "9790",
+      "name": "Margheritas",
+      "price": 3,
+      "description": "project"
+    }
+  ]
+}

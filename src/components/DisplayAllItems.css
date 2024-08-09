@@ -1,0 +1,17 @@
+.item-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .item {
+    margin-bottom: 20px; /* Add space between items */
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .btn {
+    margin-left: 10px;
+    border-radius: 5px; /* Add rounded corners */
+  }
+  
